@@ -1,4 +1,4 @@
-apply from: "../spring-boot-commons.gradle"
+apply from: "../spring-boot-commons.gradle" 
 
 def LIB_GRAPHQL_SPRING_BOOT_VER = "11.0.0-SNAPSHOT"
 
